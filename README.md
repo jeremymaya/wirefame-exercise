@@ -1,6 +1,6 @@
 # wirefame-exercise
 LAB-09
-Purpose of thi lab is to practice wireframing process and showcase my understanding of it.
+Purpose of this lab is to practice wireframing process and showcase my understanding of how positioning elemet on a webpage works.
 
 
 Author: Kyungrae Kim
